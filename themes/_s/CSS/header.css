@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;   
+}
+
+.entry-title {
+    display: none;
+}
+
+.site-title {
+    display: none;
+}
+
+.site-branding {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-bottom: -10px;
+}
+ 
+.headerContainer {
+    display: flex;
+    width: 100%;
+    max-width: 1400px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;   
+    padding-top: 1%;
+}
+
+#site-navigation a {
+    color: black;
+    margin: 20px; 
+}
+
+.cover_image img {
+    width: 100%;
+}
+
+.m-w-40 {
+    max-width: 40%;
+    margin: 0 auto;
+}

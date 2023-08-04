@@ -1,0 +1,32 @@
+#colophon {
+    background-color: #232645;
+    height: auto;
+    color: #ffffff;
+}
+
+#footer-navigation {
+    display: flex;
+}
+
+#footer-navigation li {
+     list-style-type: none;     
+}
+
+#footer-navigation a {
+    color: whitesmoke;
+    margin: 20px;   
+   
+}
+
+.child img {
+    text-align: center;
+    margin-top: 50px;
+}
+.child {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.padding-bottom {
+   padding-bottom: 20px;
+}
